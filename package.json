@@ -4,7 +4,7 @@
   "description": "1.- Common JS\r 2.- database.js\r 3.- Sequelize cli - Comand Line Interface",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/app.js",
+    "start": "node app.js",
     "dev": "nodemon ./src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
